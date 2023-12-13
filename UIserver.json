@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Bienvenidos a Riker Plays!</>",
           "title1": "SERVIDORES RIKER PLAYS",
-          "text1": "¡Bienvenido a Riker Plays! Te damos la bienvenida a nuestro servidor donde te espera un desafio épico en en modo PVP o una aventura tranquila en PVE. \nKit de Bienvenida:\n¡Participa en la emocionante misión de támeo del dodo o farmea bayas para obtener monedas así podrás adquirir nuestro exclusivo Kit de Bienvenida en el mercado! Incluye un conjunto completo de armadura de metal, un pico, un hacha y una lanza de metal, además de un Pteranodon de nivel 25 con su silla de montar. ¡Prepárate para tu aventura con estilo y equipamiento de primera!",
+          "text1": "¡Bienvenido a Riker Plays! Te damos la bienvenida a nuestro servidor donde te espera un desafío épico en modo PVP o una aventura tranquila en PVE. \n\nKit de Bienvenida:\n¡Participa en la emocionante misión de támeo del dodo o farmea bayas para obtener monedas así podrás adquirir nuestro exclusivo Kit de Bienvenida en el mercado! Incluye un conjunto completo de armadura de metal, un pico, un hacha y una lanza de metal, además de un Pteranodon de nivel 25 con su silla de montar. ¡Prepárate para tu aventura con estilo y equipamiento de primera!",
           "imageurl": "https://drive.google.com/uc?id=1ATeFC6AtCU00TkJikEy-TQ5E_WfhT9Ev"
         }
       },
@@ -53,4 +53,34 @@
           "title1": "Top left title",
           "title2": "<TextStyle.Green>Top right title</>",
           "title3": "<TextStyle.Blue>bottom left title</>",
-          "
+          "title4": "<TextStyle.Yellow>bottom right title</>",
+          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
+          "text2": "<TextStyle.Violet>This text goes into the top right box</>",
+          "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
+          "text4": "<TextStyle.White>This text goes into the bottom right box</>",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Link to Wiki",
+          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+        }
+      },
+      {
+        "link2": {
+          "text": "Link to discord",
+          "url": "https://discord.com/invite/K7NyrTV"
+        }
+      },
+      {
+        "link3": {
+          "text": "Link to google",
+          "url": "https://google.com"
+        }
+      }
+    ]
+  }
+}
