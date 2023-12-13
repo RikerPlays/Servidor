@@ -4,7 +4,7 @@
       "OpenButton": 0,
       "HideIcon": false,
       "HideIconAfter": 60,
-      "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+      "IconURL": "https://drive.google.com/uc?id=1ATeFC6AtCU00TkJikEy-TQ5E_WfhT9Ev",
       "DisableIconText": false,
       "IconPosition": 0,
       "IconTextColor": 0,
@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Bienvenidos a Riker Plays!</>",
           "title1": "SERVIDORES RIKER PLAYS",
-          "text1": "¡Bienvenido a Riker Plays! Te damos la bienvenida a nuestro servidor donde la aventura en modo PVE te espera. A continuación, encontrarás algunas estadísticas clave de nuestro servidor:\n\nMODO PVE:\n\nRATES:\nXP: x4\nRECOLECCIÓN: x4\nDOMESTICACIÓN: x4\nINCUBACIÓN: x4\nMADURACIÓN: x10\nTIEMPO DE IMPRONTA: x4\nINTERVALO DE APAREAMIENTO: x0.25\n\nOTROS:\nLOOT CRATES MEJORADOS\nCALIDAD DE OBJETOS PESCADOS x2\nCRECIMIENTO DE CULTIVOS x2\nDECAIMIENTO DE ESTRUCTURAS x1 (Paja 4 días)\nALIANZAS NO\nMIEMBROS POR TRIBU: 6\nSTACK MEJORADOS CON PESO AUMENTADO",
+          "text1": "¡Bienvenido a Riker Plays! Te damos la bienvenida a nuestro servidor donde te espera un desafio épico en en modo PVP o una aventura tranquila en PVE. \nKit de Bienvenida:\n¡Participa en la emocionante misión de támeo del dodo o farmea bayas para obtener monedas así podrás adquirir nuestro exclusivo Kit de Bienvenida en el mercado! Incluye un conjunto completo de armadura de metal, un pico, un hacha y una lanza de metal, además de un Pteranodon de nivel 25 con su silla de montar. ¡Prepárate para tu aventura con estilo y equipamiento de primera!",
           "imageurl": "https://drive.google.com/uc?id=1ATeFC6AtCU00TkJikEy-TQ5E_WfhT9Ev"
         }
       },
@@ -26,11 +26,11 @@
         "tab2": {
           "layout": 2,
           "buttontext": "2 Box layout",
-          "title1": "Left title",
-          "title2": "Right title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "title1": "Servidores PvE",
+          "title2": "Servidores PvP",
+          "text1": "MODO PVE:\n\nRATES:\nXP: x4\nRECOLECCIÓN: x4\nDOMESTICACIÓN: x4\nINCUBACIÓN: x4\nMADURACIÓN: x10\nTIEMPO DE IMPRONTA: x4\nINTERVALO DE APAREAMIENTO: x0.25\n\nOTROS:\nLOOT CRATES MEJORADOS\nCALIDAD DE OBJETOS PESCADOS x2\nCRECIMIENTO DE CULTIVOS x2\nDECAIMIENTO DE ESTRUCTURAS x1 (Paja 4 días)\nALIANZAS NO\nMIEMBROS POR TRIBU: 6\nSTACK MEJORADOS CON PESO AUMENTADO",
+          "text2": "MODO PVP:\n\nRATES:\nXP: x4\nRECOLECCIÓN: x4\nDOMESTICACIÓN: x4\nINCUBACIÓN: x4\nMADURACIÓN: x10\nTIEMPO DE IMPRONTA: x4\nINTERVALO DE APAREAMIENTO: x0.25\n\nOTROS:\nLOOT CRATES MEJORADOS\nCALIDAD DE OBJETOS PESCADOS x2\nCRECIMIENTO DE CULTIVOS x2\nDECAIMIENTO DE ESTRUCTURAS x1 (Paja 4 días)\nALIANZAS NO\nMIEMBROS POR TRIBU: 4\nSTACK MEJORADOS CON PESO AUMENTADO\nGRANADAS EN NIVEL 50\nC4 EN EL NIVEL 90\nPEPOS EN EL NIVEL 95\nRESISTENCIA ESTRUCTURAS x1.5\nDAÑO INFLINGIDO POR TORRETAS x2",
+          "imageurl": "https://drive.google.com/uc?id=1ATeFC6AtCU00TkJikEy-TQ5E_WfhT9Ev"
         }
       },
       {
@@ -53,34 +53,4 @@
           "title1": "Top left title",
           "title2": "<TextStyle.Green>Top right title</>",
           "title3": "<TextStyle.Blue>bottom left title</>",
-          "title4": "<TextStyle.Yellow>bottom right title</>",
-          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-          "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-          "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-          "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      }
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "Link to Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
-        }
-      },
-      {
-        "link2": {
-          "text": "Link to discord",
-          "url": "https://discord.com/invite/K7NyrTV"
-        }
-      },
-      {
-        "link3": {
-          "text": "Link to google",
-          "url": "https://google.com"
-        }
-      }
-    ]
-  }
-}
+          "
