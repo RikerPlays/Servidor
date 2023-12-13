@@ -27,7 +27,7 @@
           "layout": 2,
           "buttontext": "Rates",
           "title1": "Servidores PvE",
-          "title2": "Servidores PvP - Rates",
+          "title2": "Servidores PvP",
           "text1": "MODO PVE:\n\nRATES:\nXP: x4\nRECOLECCIÓN: x4\nDOMESTICACIÓN: x4\nINCUBACIÓN: x4\nMADURACIÓN: x10\nTIEMPO DE IMPRONTA: x4\nINTERVALO DE APAREAMIENTO: x0.25\n\nOTROS:\nLOOT CRATES MEJORADOS\nCALIDAD DE OBJETOS PESCADOS x2\nCRECIMIENTO DE CULTIVOS x2\nDECAIMIENTO DE ESTRUCTURAS x1 (Paja 4 días)\nALIANZAS NO\nMIEMBROS POR TRIBU: 6\nSTACK MEJORADOS CON PESO AUMENTADO",
           "text2": "MODO PVP:\n\nRATES:\nXP: x4\nRECOLECCIÓN: x4\nDOMESTICACIÓN: x4\nINCUBACIÓN: x4\nMADURACIÓN: x10\nTIEMPO DE IMPRONTA: x4\nINTERVALO DE APAREAMIENTO: x0.25\n\nOTROS:\nLOOT CRATES MEJORADOS\nCALIDAD DE OBJETOS PESCADOS x2\nCRECIMIENTO DE CULTIVOS x2\nDECAIMIENTO DE ESTRUCTURAS x1 (Paja 4 días)\nALIANZAS NO\nMIEMBROS POR TRIBU: 4\nSTACK MEJORADOS CON PESO AUMENTADO\nGRANADAS EN NIVEL 50\nC4 EN EL NIVEL 90\nPEPOS EN EL NIVEL 95\nRESISTENCIA ESTRUCTURAS x1.5\nDAÑO INFLINGIDO POR TORRETAS x2",
           "imageurl": "https://drive.google.com/uc?id=1ATeFC6AtCU00TkJikEy-TQ5E_WfhT9Ev"
@@ -35,7 +35,7 @@
       },
       {
         "tab3": {
-          "layout": 3,
+          "layout": 1,
           "buttontext": "Normas",
           "title1": "Normas de los Servidores RIKER PLAYS",
           "text1": "Respeto Mutuo:\nTrata a los demás jugadores con respeto y cortesía. Evita cualquier forma de acoso o discriminación.\n\nNo Griefing:\nNo destruyas las bases de otros jugadores sin razón justificada. Respeta el esfuerzo y tiempo que han invertido.\n\nCheats y Hacks:\nEl uso de cheats, hacks o cualquier forma de trampa está estrictamente prohibido. Los infractores serán sancionados.\n\nProtección del Mapa:\nNo bloquees recursos clave ni dejes trampas ni FOBs sueltos. No construyas en cuevas de artefactos. Mantengamos la integridad del entorno de juego.\n\nNo Construcción en Zonas de Desove:\nNo construyas cerca de las zonas de desove para preservar la experiencia de juego para todos los jugadores.\n\nConservación de Recursos:\nNo desperdicies recursos. Construye de manera eficiente y evita estructuras innecesarias que afecten el rendimiento del servidor.\n\nControl de Animales en Modo PvE:\nEn el modo PvE, evita dejar animales sueltos, especialmente agresivos, en el mapa y en bases ajenas, ya que podrán ser eliminados para mantener la armonía del juego.\n\nReporte de Problemas:\nInforma cualquier problema o infracción a los administradores a través de los canales designados. Recuerda que no nos responsabilizamos de bug del juego, son ajenos a nuestra administración.\n\nAcuerdo con las Reglas:\nAl unirte al servidor, aceptas cumplir estas normas. La ignorancia no es excusa; infórmate y juega de manera justa.\n\nEstas normas están diseñadas para garantizar un ambiente justo y respetuoso para todos los jugadores. ¡Disfruta del juego!",
@@ -44,7 +44,7 @@
       },
       {
         "tab4": {
-          "layout": 4,
+          "layout": 1,
           "buttontext": "Donaciones",
           "title1": "DONACIONES por Dinero Real!",
           "text1": "5€ = 1 moneda de Servidor = 1M de Goldcoin.\n\nEnvía los 5€ a través de PayPal o Tarjeta de Crédito en [este enlace](https://www.paypal.com/donate?hosted_button_id=FZKF8GWK2PDKE)\n\nAbre un ticket indicando la donación, captura de pantalla, nombre de personaje, tribu y tipo de servidor (PVE o PVP). Se hará la verificación y se transferirán las monedas a la mayor brevedad posible a tu personaje si estas conectado al servidor a la misma vez que el admin. En caso contrario se te dejarán monedas de servidor para recoger en un lugar seguro, que podrás cambiarlas en el mercado por Goldcoins. Luego podrás comprar en el mercado o a otros jugadores con ellas, podrás sumar el saldo de donación al que tenías o al que farmees, si deseas un artículo en particular discutimos si es posible o el precio. Importante, recuerda que en PVP si te matan el jugador que te mato se lleva un 30% de tu saldo, en eso no somos responsables. Las donaciones no se reembolsan.\n\n¡Que tus transacciones en Ark sean siempre prósperas!",
